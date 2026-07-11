@@ -1,5 +1,3 @@
 User-agent: *
-Disallow: /contact
 Allow: /
-
 Sitemap: https://jdld.netlify.app/sitemap.xml
